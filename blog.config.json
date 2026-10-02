@@ -1,0 +1,39 @@
+{
+  "siteName": "RESET",
+  "siteUrl": "https://murzzsite.github.io/resset-service",
+  "lang": "ru",
+  "repo": "murzzsite/resset-service",
+  "ref": "C2UVM3BDP3",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от RESET",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Сервис RESET",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": false,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "3c9305f465555cef1289967d997cdf60",
+  "previewSecret": "cc3553617438bcb7",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}

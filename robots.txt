@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /resset-service/blog/preview/
+
+Sitemap: https://murzzsite.github.io/resset-service/sitemap.xml
